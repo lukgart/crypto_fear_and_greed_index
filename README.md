@@ -16,12 +16,7 @@ This Python script retrieves and displays the current Fear and Greed Index from 
     cd fear-and-greed-index
     ```
 
-2. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-3. Run the script:
+2. Run the script:
     ```sh
     python main.py
     ```
