@@ -12,7 +12,7 @@ This Python script retrieves and displays the current Fear and Greed Index from 
 
 1. Clone the repository:
     ```sh
-    git clone <repository_url>
+    git clone https://github.com/lukgart/crypto_fear_and_greed_index.git
     cd fear-and-greed-index
     ```
 
